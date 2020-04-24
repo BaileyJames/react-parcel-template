@@ -5,4 +5,4 @@
  #### Live server on localhost:1234
  - `yarn dev`
  #### Production build to dist/ folder
- - `yarn yarn build`
+ - `yarn build`
